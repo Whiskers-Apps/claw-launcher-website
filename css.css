@@ -19,7 +19,6 @@ link:visited {
   color: #ffe072;
 }
 
-.main-div {
-  display: flex;
-  align-items: center;
+.main-div{
+  padding: 24px;
 }
